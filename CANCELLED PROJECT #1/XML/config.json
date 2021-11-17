@@ -1,0 +1,8 @@
+{
+    "Setup": {
+      "Prefix": "!",
+      "Token": "token here",
+      "Server Id": "id here",
+      "Ban Reason": ["ban because ur a bozo"]
+    }
+}
